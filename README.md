@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I'm Android Developer
+## My apps avaible on Google Play:
+* [Shopisto](https://play.google.com/store/apps/details?id=com.pawlowski.shopisto)
+* [Plan Zajęć ISI AGH](https://play.google.com/store/apps/details?id=com.pawlowski.planzajweaiiib)
 
 <!--
 **maciekpawlowski1/maciekpawlowski1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
