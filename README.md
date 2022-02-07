@@ -11,10 +11,6 @@
 ## ✨ More projects
 More my projects are avaible on [my site](https://maciekpawlowski1.github.io/).
 
-
-### Exercise for narzędzia informatyczne
-[Fork of repository with mvc examples](https://github.com/maciekpawlowski1/AndroidMvc)
-
 <!--
 **maciekpawlowski1/maciekpawlowski1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
