@@ -1,6 +1,11 @@
 ### Hi there 👋
 ### I am Android Developer, I am studying IT and Intelligent Systems at AGH University of Science and Technology in Krakow in Poland. 🏢
-### I am mostly programming apps in Java or Kotlin for Android
+### I am mostly programming apps in Koltlin/Java for Android
+
+## My recent apps
+* [Currency Converter](https://github.com/maciekpawlowski1/Currency_Converter_Compose) - app to quickly display currency rates. My first app created in Jetpack Compose
+* [Costs Counter](https://github.com/maciekpawlowski1/Costs_Counter) - app for faster creating summaries of expenses and generating excel file from it
+
 ## ✨ My apps avaible on Google Play:
 * ✅ [Track Your Activity](https://play.google.com/store/apps/details?id=com.pawlowski.trackyouractivity) - App which allows to track running, cycling, nordic walking and more. It can get distance what user's made and check the route on the map. It allows to set weekly km goal, check the history of trainings. Code of the app is avaible on [GitHub](https://github.com/maciekpawlowski1/Track_Your_Activity)
 <img src="/app-logos/track-your-activity-logo.png" alt="Track Your Activity" width="150"/>
