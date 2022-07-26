@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I am Android Developer, I am studying IT and Intelligent Systems at AGH University of Science and Technology in Krakow in Poland. 🏢
-### I am mostly programming apps in Koltlin/Java for Android
+### I am mostly programming apps in Kotlin/Java for Android
 
 ## My recent apps
 * [Currency Converter](https://github.com/maciekpawlowski1/Currency_Converter_Compose) - app to quickly display currency rates. My first app created in Jetpack Compose
