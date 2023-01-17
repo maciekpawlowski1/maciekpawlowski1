@@ -8,7 +8,7 @@
 
 ## ✨ My apps available on Google Play:
 * ✅ [Stuboard](https://play.google.com/store/apps/details?id=com.pawlowski.stuboard) - App for finding events for students. Code of the app is available on [GitHub](https://github.com/maciekpawlowski1/Stuboard)
-<img src="/app-logos/stuboard-logo.png" alt="Stuboard" width="150"/>
+<img src="/app-logos/stuboard_logo.png" alt="Stuboard" width="150"/>
 
 * ✅ [Track Your Activity](https://play.google.com/store/apps/details?id=com.pawlowski.trackyouractivity) - App which allows to track running, cycling, nordic walking and more. It can get distance what user's made and check the route on the map. It allows to set weekly km goal, check the history of trainings. Code of the app is available on [GitHub](https://github.com/maciekpawlowski1/Track_Your_Activity)
 <img src="/app-logos/track-your-activity-logo.png" alt="Track Your Activity" width="150"/>
