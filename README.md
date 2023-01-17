@@ -8,6 +8,7 @@
 
 * [Stuboard](https://play.google.com/store/apps/details?id=com.pawlowski.stuboard) - App for finding events for students. Code of the app is available on [GitHub](https://github.com/maciekpawlowski1/Stuboard)
 <img src="/app-logos/stuboard_logo.png" alt="Stuboard" width="150"/>
+
 * [Currency Converter](https://github.com/maciekpawlowski1/Currency_Converter_Compose) - app to quickly display currency rates. My first app created in Jetpack Compose
 * [Costs Counter](https://github.com/maciekpawlowski1/Costs_Counter) - app for faster creating summaries of expenses and generating excel file from it
 
